@@ -11,12 +11,12 @@
 
 2. LOGICA
     Inserire la logica all interno della funzione. 
-     - [x] Creare una variabile contenete la   main da verificare che si chiamerà mail da verificare.
-     - [x] Creare variabile vuota per satmapare nella pagina il risultato dell'accesso
+     - [x] Creare una variabile contenete la main da verificare, che si chiamerà mail da verificare.
+     - [x] Creare variabile vuota per stampare nella pagina il risultato dell'accesso.
      
      Creazione di un ciclo for per controllare ogni singola mail presente nell'elenco.
      
-     condizione
+     Condizione
      se (la mail inserita è uguale a listaMail[i] ovverro corrisponde ad una delle mail presenti nella lista)
         accesso autorizzato uguale === true.
 
@@ -28,7 +28,7 @@ Condizione esterna al ciclo
         accesso consentito.
 
      altrimenti
-        stamap accesso negato.
+        stampa accesso negato.
 
 ---
 
